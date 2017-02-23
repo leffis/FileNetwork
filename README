@@ -1,0 +1,10 @@
+Fullfill the assignment requirements included bonus.
+Use make to create executable files.
+first, "./server" or "bash server.sh" to create server.
+Then in other window:
+ ./client put host port localFilename remoteFilename
+ ./client get host port remoteFilename localFilename
+Or use bash script:
+ bash client.sh put host port localFilename remoteFilename
+ bash client.sh get host port remoteFilename localFilename
+as assignment describe.
